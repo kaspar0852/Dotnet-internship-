@@ -1,0 +1,15 @@
+/Users/kaspar/Desktop/internship/January2023/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/kaspar/Desktop/internship/January2023/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/kaspar/Desktop/internship/January2023/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/kaspar/Desktop/internship/January2023/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/kaspar/Desktop/internship/January2023/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/kaspar/Desktop/internship/January2023/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/kaspar/Desktop/internship/January2023/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaspar/Desktop/internship/January2023/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/kaspar/Desktop/internship/January2023/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/kaspar/Desktop/internship/January2023/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/kaspar/Desktop/internship/January2023/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/kaspar/Desktop/internship/January2023/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/kaspar/Desktop/internship/January2023/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/kaspar/Desktop/internship/January2023/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/kaspar/Desktop/internship/January2023/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll

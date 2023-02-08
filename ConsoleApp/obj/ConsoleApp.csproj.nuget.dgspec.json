@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kaspar/Desktop/internship/January2023/ConsoleApp/ConsoleApp.csproj": {}
+    "/Users/kaspar/Desktop/internshipmy/ConsoleApp/ConsoleApp.csproj": {}
   },
   "projects": {
-    "/Users/kaspar/Desktop/internship/January2023/ConsoleApp/ConsoleApp.csproj": {
+    "/Users/kaspar/Desktop/internshipmy/ConsoleApp/ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kaspar/Desktop/internship/January2023/ConsoleApp/ConsoleApp.csproj",
+        "projectUniqueName": "/Users/kaspar/Desktop/internshipmy/ConsoleApp/ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "/Users/kaspar/Desktop/internship/January2023/ConsoleApp/ConsoleApp.csproj",
+        "projectPath": "/Users/kaspar/Desktop/internshipmy/ConsoleApp/ConsoleApp.csproj",
         "packagesPath": "/Users/kaspar/.nuget/packages/",
-        "outputPath": "/Users/kaspar/Desktop/internship/January2023/ConsoleApp/obj/",
+        "outputPath": "/Users/kaspar/Desktop/internshipmy/ConsoleApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kaspar/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
